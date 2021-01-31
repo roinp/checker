@@ -1,0 +1,42 @@
+* {
+    padding: 0;
+    text-align: center;
+   
+}
+
+
+.black {
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+    background-color: white;
+    display: inline-block;
+    background-color: rgb(139, 126, 126);
+    font-size: 0;
+    vertical-align: top;
+}
+
+.main {
+    width: 850px;
+    font-size: 0;
+    box-sizing: border-box;
+    display: inline-block;
+}
+
+.white {
+    width: 100px;
+    height: 100px;
+    background-color: white;
+    display: inline-block;
+    border: 1px solid rgb(17, 16, 16);
+}
+
+.figure {
+   display: inline-block;
+   width: 70px;
+   height: 70px;
+   text-align: center;
+   border-radius: 50%;
+   background-color: black;
+   margin-top: 15px;
+}
